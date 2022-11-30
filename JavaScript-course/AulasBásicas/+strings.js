@@ -81,3 +81,6 @@ console.log(umaString.split(' '))  //divido a palavra pelos espaços
 console.log(umaString.split(' ', 2)) //executa so 2x 
 console.log(umaString.split('r')) //que apague o r  */
 
+//toUpperCase(), deixa tudo maiúsculo 
+//toLowerCase(), deixa tudo minusculo 
+
